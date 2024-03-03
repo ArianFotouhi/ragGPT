@@ -34,6 +34,9 @@ Then in the other windows of VSC, go to folder /frontend/frontend (here you shou
 npm i react-spinners
 ```
 ```
+npm install next@latest react@latest react-dom@latest
+```
+```
 npm run dev
 ```
 Congrats, all done! 
