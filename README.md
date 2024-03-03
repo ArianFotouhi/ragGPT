@@ -8,3 +8,11 @@ This application is created to mitigate the limits imposed by chatgpt like no ac
 ### Helps researchers to analyze the papers easier and save time
 ![image2](assets/2.jpg)
 
+#### And more...like answering questions about user custom file
+Needs to upload your file
+```
+Question: How many different customer names exist in my file
+```
+```
+Answer: There are 55 different customer names.
+```
