@@ -1,4 +1,6 @@
 This application is created to mitigate the limits imposed by chatgpt like no access to realtime data as well as help analyzing reasearch papers and custom data of user.
+## Test the app: https://raggpt.vercel.app/
+The app is deployed on the [LINK](https://raggpt.vercel.app/). Please note that this is a test server, which means its computational capacity is limited. Additionally, for real-time data, some URLs might encounter failures. For best experience, I highly recommend deploying the app on your local computer. Detailed instructions are provided below.
 ## Why to use
 
 ### Access to realtime 
