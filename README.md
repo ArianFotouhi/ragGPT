@@ -18,3 +18,13 @@ Question: How many different customer names exist in my file
 ```
 Answer: There are 55 different customer names.
 ```
+
+## Deploy the app on your computer
+First you need to clone the repository and unzip it. For IDE, I recommend Visual Studio Code and you can install it by [LINK](https://code.visualstudio.com/download). Then you need to open two windows in VSC. By first one, open the folder of /backend to run server by below commands:
+
+python```
+pip install -r requirements.txt
+```
+```
+python .\main.py
+```
