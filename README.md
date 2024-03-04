@@ -1,5 +1,10 @@
 This application is created to mitigate the limits imposed by chatgpt like no access to realtime data as well as help analyzing reasearch papers and custom data of user.
 #### Backend is written in Python Language and frontend created by Nextjs and Reactjs. 
+## How to use?
+#### 1. [LINK](https://raggpt.vercel.app/) to access the app
+#### 2.Enter your OpenAI key
+#### 3. If you need the data from any url enter it OR if you need to analyze a document (file) like a research paper upload it
+#### 4. Click Let's Start and ask your questions!
 ## Test the app: https://raggpt.vercel.app/
 The app is deployed on the [LINK](https://raggpt.vercel.app/). It only needs you to have OpenAI API key to use GPT models. Please note that this is a test server, which means its computational capacity is limited. Additionally, for real-time data, some URLs might encounter failures. For best experience, I highly recommend deploying the app on your local computer. Detailed instructions are provided below.
 ![image1](assets/demo.gif)
