@@ -7,14 +7,15 @@ The app is deployed on the [LINK](https://raggpt.vercel.app/). It only needs you
 ## Why to use
 
 ### Access to realtime 
-#### Needs to provide a url (e.g. a stock exchange website) 
+#### Needs to enter a url (e.g. a stock exchange website) 
 ![image1](assets/1.jpg)
 
 ### Helps researchers to analyze the papers easier and save time
+#### Needs to upload the research paper as your document
 ![image2](assets/2.jpg)
 
 #### And more...like answering questions about user custom file
-Needs to upload your file
+Needs to upload your file as document
 ```
 Question: How many different customer names exist in my file
 ```
